@@ -1,0 +1,49 @@
+.contenedor{
+	background-color: blue;
+	color: white;
+	font-size: 40px;
+	border-radius: 10px;
+	width: 600px;
+	height: 100px;
+	text-align: center;
+	border: 2px solid red;
+}
+
+form{
+	background-color: aqua;
+	border-radius: 5px;
+	height: 150px;
+	width: 300px;
+	text-align: center;
+}
+
+input{
+	color: red;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.boton{
+	background-color: peru;
+	border-radius: 8px;
+	color: white;
+}
+
+.mouseSobre{
+	background-color: blue;
+	color: red;
+    width: 600px;
+	height: 100px;
+	text-align:center;
+
+}
+
+.mouseFuera{
+
+	background-color: grey;
+	color: white;
+	width: 600px;
+	height: 100px;
+	text-align: center;
+
+}
