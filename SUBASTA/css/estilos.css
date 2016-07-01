@@ -1,0 +1,220 @@
+.Logo{
+	width: 400px;
+}
+
+
+.Menu, .Parrafo  {
+background-color: #03232f;
+
+}
+
+
+ .MenuBusqueda{
+	display: inline-block;
+	float: right;
+
+	
+}
+
+
+.Menulink{
+
+color: #FFFFFF;
+text-decoration: none;
+line-height: 3.75em;
+margin-right: 1.5em;
+
+}
+
+
+.Parrafo{
+font-family: Tahoma;
+text-align: center;
+
+
+}
+
+
+.FondoTabla{
+	background-color: #EBECED;
+    
+
+}
+
+.centrar {
+position: relative;
+left: 40px;
+box-sizing:border-box;
+display: -webkit-flex;
+display: -ms-flexbox;
+display: -webkit-box;
+display: flex;
+  
+         
+}
+
+.Nav{
+	margin-left: 20px;
+}
+
+
+.FondoImag{
+width: 750px;
+height: 200px; 
+border-radius: 50px;
+display: -webkit-flex;
+display: -ms-flexbox;
+display: -webkit-box;
+display: flex;
+		
+	}
+
+
+.DescripcionArticulo {
+    position: absolute;
+    left: 20px;
+    top: 12px;
+    font-size: 11px;
+    text-align: center;
+    font-family: Tahoma;
+    font-style: bold;
+
+}
+
+
+.ancla {
+    text-decoration: none;
+    color: #000000;
+}
+
+
+
+
+.PosicionBoton {
+    position: absolute;
+    left: 35px;
+    top: 160px; 
+   	background-color: #03232f;
+	padding: 3px 4px;
+	font-size: 12px;
+	font-weight: 400;
+	border-bottom: 6px ;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	cursor: pointer;
+
+}
+
+.boton{
+color:#FFFFFF;
+text-decoration: none;
+text-align: center;
+font-family: tahoma;
+
+	}
+
+
+
+.CategoriaItem{
+font-family: Tahoma;
+font-size: 90%;
+margin-left: 20px;
+	}
+
+
+
+.Categorialink{
+text-decoration: none;
+font-style: italic;
+font-weight: lighter;
+color: #000000;
+
+
+	}
+	
+
+
+
+.Busqueda{
+	width: 15px;
+	
+	
+}
+
+
+.imagenFondo{
+    position: relative;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 10%;
+    display: -webkit-flex;
+	display: -ms-flexbox;
+	display: -webkit-box;
+	display: flex;
+
+}
+
+.BotonMas{
+  position: relative;
+  top: -43px;
+  right: -900px;
+  border-radius: 30%;
+
+
+}
+
+.Mas{
+	
+font-style:italic;
+cursor: pointer;
+}
+ 
+
+ .LinkMas{
+ 	text-decoration: none;
+ 	color: #000000;
+ 	font-size: 90%;
+
+
+ }
+
+
+
+.Footer{
+background-color:#03232f;
+text-align: center;
+padding: 2em 0;
+border-width: 1px;
+border-style: solid;
+
+
+}
+
+.FooterLink{
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 80%;
+	font-family: tahoma;
+
+}
+
+
+.FooterItem{
+text-align: center;
+display: inline-block;
+color: #FFFFFF;
+
+
+	}
+
+
+ 
+
+ 
+
+
+
+
+
+
+
