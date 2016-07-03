@@ -1,0 +1,39 @@
+.Logo{	width: 90%; margin-left: 5%}
+
+.CampoBusqueda {margin-left: 5%; }
+
+.BusquedaOperacionCuenta, .UltimasSubastas , .FondoDescripcionReloj , .FondoUltimasSubastas { background-color: #5b7fab; }
+
+.OperacionCuenta{margin-left: 60%; }
+
+.Bordado { border-width: 5px; }
+
+.ImagenCategoria{ left: 100%;}
+
+.Imag-Fondo{ width: 150px; height: 150px; }
+
+.Categoria{ margin-right: 80%; }
+
+.MargenCategoria{ margin-left: 10%; }
+
+.Text-hipervinculo{ color: #FFFFFF; text-decoration: none; line-height: 3.75em; margin-right: 1.5em; }
+
+.MargenUltimasSubastas{ text-decoration: none; margin-left: 5%; color: #000000; }
+
+.MargenContactos , .MargenPagos {margin-left: 10%;}
+
+.Alinear {	display: inline; }
+
+.CentrarFila { position: relative; left: 40px; }
+
+.ImagenFondo{ position: relative; }
+
+.PosicionBoton { position: absolute; left: 90px; top: 170px; background-color: #00FF00; padding: 3px 4px; font-size: 12px; font-weight: 400; border-bottom: 6px ; border-radius: 5px; }
+
+.Boton{ text-decoration: none; color:#FFFF00; background-color: #000000; }
+
+.Footer{ background-color:#5b7fab; }
+
+.Identificador{ margin-left: 80%; color: #FFFFFF; }
+
+.chavo{position: static; margin-left: 550px; }
